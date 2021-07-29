@@ -1,0 +1,22 @@
+
+p
+java:S1854"MRemove this useless assignment to local variable "ageRestrictedItemTypeEnum".(è›åŸúÿÿÿÿ8Ññìÿñ.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÖÿÃûÿÿÿÿ8Ž¦ëÿñ.
+o
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆ…­Å8¶Ë éá.
+>
+java:S2111&"!Use "BigDecimal.valueOf" instead.(’„Éå8… ä…Þ.
+v	java:S115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”Òã„8Ž¦ëÿñ.
+R
+java:S1481K"0Remove this unused "discountMap" local variable.(ü™ï“ýÿÿÿÿ8æñ‘þà.
+X	java:S125-"<This block of commented-out lines of code should be removed.(·øæ‘8¨é»¦Þ.
+a
+java:S1481Ž">Remove this unused "ageRestrictedItemTypeEnum" local variable.(®â®¬þÿÿÿÿ8Ññìÿñ.
+]	java:S125e"<This block of commented-out lines of code should be removed.(ÒåÕÂÿÿÿÿÿ8ƒ”Šæ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
+a
+java:S1854K"?Remove this useless assignment to local variable "discountMap".(ü™ï“ýÿÿÿÿ8æñ‘þà.
+N
+java:S1602_",Remove useless curly braces around statement(úÈŒ«þÿÿÿÿ8­ôŸþà.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…ù¥¾8ÚÿÝ…Þ.

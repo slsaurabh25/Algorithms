@@ -1,0 +1,23 @@
+
+T
+java:S1197
+"8Move the array designator from the variable to the type.(¬öL8Ş„ŸŠ/
+X	java:S125u"<This block of commented-out lines of code should be removed.(Ñ”øÖ8ö±”£/
+f
+java:S1192Q"IDefine a constant instead of duplicating this literal "08:00 AM" 3 times.(á‚ÃÁ8ÕÙä”£/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¢ñşşÿÿÿÿ8êõ­Š/
+€
+java:S1488Ü"bImmediately return this expression instead of assigning it to the temporary variable "dateResult".(»ş«Ö8øñ¤”£/
+:
+java:S1700Ê"Rename field "nestedDateTime"(Ç€ÙZ8²„ÇÊ¡/
+X	java:S125="<This block of commented-out lines of code should be removed.(ş£ê¶8Ñ…•£/
+k
+java:S1192?"IDefine a constant instead of duplicating this literal "12:00 AM" 4 times.(åÚÙæùÿÿÿÿ8ªù‹•£/
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚¼ç8óÜÈÊ¡/
+H
+java:S1144O"+Remove this unused private "isLate" method.(ÌÇİì8Ñ…•£/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
+€
+java:S1488ä"bImmediately return this expression instead of assigning it to the temporary variable "dateResult".(±Ó—„8øïŠ•£/
+F
+java:S2201D")The return value of "parse" must be used.(ÏÍéó8•¹–£/

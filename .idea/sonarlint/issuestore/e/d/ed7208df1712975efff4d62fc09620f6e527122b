@@ -1,0 +1,20 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÀÊ€şÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©•ùØùÿÿÿÿ
+S
+java:S1197T"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ÔÀÊ€şÿÿÿÿ
+N
+java:S1197K"8Move the array designator from the variable to the type.(ÄÂËÓ
+S
+java:S1197"8Move the array designator from the variable to the type.(©•ùØùÿÿÿÿ
+S
+java:S1197V"8Move the array designator from the variable to the type.(™İ‘Ïùÿÿÿÿ
+S
+java:S1197;"8Move the array designator from the variable to the type.(Ö¹€Şúÿÿÿÿ
+:
+java:S1659"Declare "j" on a separate line.(á”æåşÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¾Éé¼ûÿÿÿÿ

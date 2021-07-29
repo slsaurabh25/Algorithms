@@ -1,0 +1,25 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íá¢Ûúÿÿÿÿ8ùù¼É©/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»×‘Êÿÿÿÿÿ8ùù¼É©/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ½ºâúÿÿÿÿ8ùù¼É©/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û˜»¬ÿÿÿÿÿ8ùù¼É©/
+{
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô·œıÿÿÿÿÿ8ã±ÑÊ©/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û˜»¬ÿÿÿÿÿ8ùù¼É©/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÿ§™8ùù¼É©/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û˜»¬ÿÿÿÿÿ8ùù¼É©/
+J
+java:S1172$"(Remove this unused method parameter "K".(û˜»¬ÿÿÿÿÿ8ÉÅ‡Ê©/
+{
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤ó½úøÿÿÿÿ8¥ËÊ©/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹è–úÿÿÿÿÿ8ùù¼É©/
+H
+java:S1481&"+Remove this unused "result" local variable.(ìş“8…ÈÊ©/
+t
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(û˜»¬ÿÿÿÿÿ8ÕÄÊ©/
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óİöÅ8ùù¼É©/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çñ®Æ8ùù¼É©/
+r	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û˜»¬ÿÿÿÿÿ8ùù¼É©/
+{
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ëì¨øÿÿÿÿ8¥ËÊ©/
