@@ -1,5 +1,3 @@
-package Sorting;
-
 public class InsertionSort {
     /*Function to sort array using insertion sort*/
     void sort(int arr[])

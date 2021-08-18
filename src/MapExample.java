@@ -1,5 +1,3 @@
-package Sorting;
-
 import java.util.HashMap;
 import java.util.Map;
 

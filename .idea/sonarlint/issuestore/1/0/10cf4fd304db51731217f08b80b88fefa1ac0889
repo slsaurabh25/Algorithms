@@ -1,0 +1,9 @@
+
+n	java:S116A"RRename this field "EndTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œö ß8³¬Íô²/
+u	java:S116@"TRename this field "StartTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÚÃýûÿÿÿÿ8óË‰Ö±/
+T
+java:S3655+"7Call "Optional#isPresent()" before accessing the value.(ßú Ä8Œ¯ïô²/
+R
+java:S1854:"5Remove this useless assignment to local variable "a".(Ù£‚Å8³¬Íô²/
+K
+java:S3740"/Provide the parametrized type for this generic.(Î—€:8¯ãßô²/

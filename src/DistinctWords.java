@@ -1,5 +1,3 @@
-package Sorting;
-
 import java.util.*;
 
 /*Given a string(word), S, print the number of distinct words with or without meaning that can be formed with the letters of the given word.

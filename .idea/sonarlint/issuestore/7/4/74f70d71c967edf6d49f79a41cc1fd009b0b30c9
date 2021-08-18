@@ -1,10 +1,10 @@
 
 B
 java:S1481"&Remove this unused "i" local variable.(à¦R8¹¬æ‰ª/
+Q
+java:S1854"5Remove this useless assignment to local variable "i".(à¦R8¹¬æ‰ª/
 ]	java:S125"<This block of commented-out lines of code should be removed.(£ğåäşÿÿÿÿ8¹¬æ‰ª/
 W
 java:S1854"5Remove this useless assignment to local variable "i".(Ñì§Åúÿÿÿÿ8¹¬æ‰ª/
-Q
-java:S1854"5Remove this useless assignment to local variable "i".(à¦R8¹¬æ‰ª/
 R
 java:S1854"5Remove this useless assignment to local variable "i".( Œ¸8¹¬æ‰ª/

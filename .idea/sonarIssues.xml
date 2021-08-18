@@ -13,6 +13,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/CompletebleFutureExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Example1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/ExceptionTest.java">
           <value>
             <set />
@@ -303,6 +313,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/menu/wrapper/v1_2021/OrderItemsRequestWrapperMob2021V1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/menu/wrapper/v7/AgeRestrictedItemTypeEnum.java">
           <value>
             <set />
@@ -383,6 +398,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/storeportal/v2_2021/StoreOrderWrapper2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/storeportal/v2_2021/StoreOrdersWrapper2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/storeportal/v2_2021/StoreUpdateItemsWrapper2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v1_2021/CheckoutRequestWrapper2021V1.java">
           <value>
             <set />
@@ -393,7 +423,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v1_2021/OrderCheckoutOptionsWrapper2021V1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v2_2021/OrderBasketWrapper2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v2_2021/OrderCheckoutOptionsWrapper2021V2.java">
           <value>
             <set />
           </value>
@@ -409,6 +449,21 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v2_2021/OrderStoreValidationWrapper2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v2_2021/StoreSubmitOrderWrapperWithUserDetails2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v2_2021/StoreSubmitResponseWrapper2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/ordering/wrapper/v2_2021/StoreTimeSlotWrapper2021V2.java">
           <value>
             <set />
           </value>
@@ -534,6 +589,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/store/wrapper/v1_2021/UpdateStoreWrapper2021V1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Commons_Library/common_services/src/main/java/com/mobiquity/kumandgo/store/wrapper/v2_2021/StoreTimeSlotWrapperMob2021V2.java">
           <value>
             <set />
           </value>
@@ -698,6 +758,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_LoyaltyApp_MobGate/src/main/java/com/mobiquityinc/kumandgo/endpoint/storeportal/v2_2021/StorePortalOrderController2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_LoyaltyApp_MobGate/src/main/java/com/mobiquityinc/kumandgo/endpoint/v1_2021/BasketController2021V1.java">
           <value>
             <set />
@@ -819,6 +884,16 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_LoyaltyApp_MobGate/src/main/java/com/mobiquityinc/kumandgo/service/storeportal/v1_2021/impl/StorePortalService2021V1Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_LoyaltyApp_MobGate/src/main/java/com/mobiquityinc/kumandgo/service/storeportal/v2_2021/StorePortalService2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_LoyaltyApp_MobGate/src/main/java/com/mobiquityinc/kumandgo/service/storeportal/v2_2021/impl/StorePortalService2021V2Impl.java">
           <value>
             <set />
           </value>
@@ -1149,6 +1224,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Menu_Refresh_Services/src/main/java/com/mobiquityinc/kumandgo/menu/nosql/domain/v7/CategoryWrapperV7.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Menu_Refresh_Services/src/main/java/com/mobiquityinc/kumandgo/menu/nosql/domain/v7/IngredientPortionWrapperV7.java">
           <value>
             <set />
           </value>
@@ -1488,6 +1568,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/controller/v2_2021/StorePortalController2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/controller/v6/fuel/PaymentMethodController.java">
           <value>
             <set />
@@ -1628,12 +1713,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/impl/v1_2021/ValidateOrderService2021V1Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/impl/v2_2021/BasketService2021V2Impl.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/impl/v2_2021/OrderUserStoreMenuService2021V2Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/impl/v2_2021/StorePortalService2021V2Impl.java">
           <value>
             <set />
           </value>
@@ -1698,12 +1793,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/v1_2021/ValidateOrderService2021V1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/v2_2021/BasketService2021V2.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/v2_2021/OrderUserStoreMenuService2021V2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/main/java/com/mobiquityinc/kumandgo/orderingservice/service/v2_2021/StorePortalService2021V2.java">
           <value>
             <set />
           </value>
@@ -1808,6 +1913,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/test/java/com/mobiquityinc/kumandgo/orderingservice/controller/v2_2021/StorePortalController2021V2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/test/java/com/mobiquityinc/kumandgo/orderingservice/controller/v2_2021/StorePortalController2021V2Tests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/test/java/com/mobiquityinc/kumandgo/orderingservice/controller/v7/BasketControllerV7Tests.java">
           <value>
             <set />
@@ -1839,6 +1954,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/test/java/com/mobiquityinc/kumandgo/orderingservice/v2_2021/BasketService2021V2Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/KUM_AND_GO/repos/Kum-n-Go_Ordering_Services/src/test/java/com/mobiquityinc/kumandgo/orderingservice/v2_2021/StorePortalService2021V2Test.java">
           <value>
             <set />
           </value>
