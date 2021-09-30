@@ -1,0 +1,26 @@
+
+K
+java:S1481B")Remove this unused "max2" local variable.(‰Çþ¬ýÿÿÿÿ8‡‡•í½/
+n	java:S116u"RRename this field "EndTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œö ß8³¬Íô²/
+T
+java:S36551"7Call "Optional#isPresent()" before accessing the value.(ßú Ä8Œ¯ïô²/
+R
+java:S1854n"5Remove this useless assignment to local variable "a".(Ù£‚Å8³¬Íô²/
+i	java:S101H"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ƒžú8Â—½í½/
+E
+java:S1481E"(Remove this unused "min" local variable.(ÊÎ“ï8‡‡•í½/
+F
+java:S1481C")Remove this unused "max1" local variable.(ãêÎô8‡‡•í½/
+Z
+java:S1854B"8Remove this useless assignment to local variable "max2".(‰Çþ¬ýÿÿÿÿ8‡‡•í½/
+U
+java:S1854C"8Remove this useless assignment to local variable "max1".(ãêÎô8‡‡•í½/
+U
+java:S1854F"8Remove this useless assignment to local variable "min1".(àë®á8‡‡•í½/
+K
+java:S3740$"/Provide the parametrized type for this generic.(Î—€:8¯ãßô²/
+F
+java:S1481F")Remove this unused "min1" local variable.(àë®á8‡‡•í½/
+u	java:S116t"TRename this field "StartTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÚÃýûÿÿÿÿ8óË‰Ö±/
+T
+java:S1854E"7Remove this useless assignment to local variable "min".(ÊÎ“ï8‡‡•í½/

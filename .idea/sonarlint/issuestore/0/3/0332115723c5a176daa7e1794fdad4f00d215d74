@@ -1,0 +1,21 @@
+
+_
+java:S1192O"IDefine a constant instead of duplicating this literal "08:00 AM" 3 times.(á‚ÃÁ
+d
+java:S1192="IDefine a constant instead of duplicating this literal "12:00 AM" 4 times.(åÚÙæùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¢ñşşÿÿÿÿ
+f	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚¼ç
+3
+java:S1700È"Rename field "nestedDateTime"(Ç€ÙZ
+y
+java:S1488Ú"bImmediately return this expression instead of assigning it to the temporary variable "dateResult".(»ş«Ö
+y
+java:S1488â"bImmediately return this expression instead of assigning it to the temporary variable "dateResult".(±Ó—„
+M
+java:S1197"8Move the array designator from the variable to the type.(¬öL
+Q	java:S125;"<This block of commented-out lines of code should be removed.(ş£ê¶
+?
+java:S2201B")The return value of "parse" must be used.(ÏÍéó
+Q	java:S125s"<This block of commented-out lines of code should be removed.(Ñ”øÖ
+A
+java:S1144M"+Remove this unused private "isLate" method.(ÌÇİì

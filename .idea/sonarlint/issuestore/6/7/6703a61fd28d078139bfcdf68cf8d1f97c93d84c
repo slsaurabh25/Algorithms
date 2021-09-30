@@ -1,0 +1,65 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ø¦İ¢
+P
+java:S1854a"5Remove this useless assignment to local variable "F".(Ú¨¯ğùÿÿÿÿ
+>
+java:S1125'"(Remove the literal "true" boolean value.(«¸ş•
+E
+java:S3740"/Provide the parametrized type for this generic.(„ü˜ï
+=
+java:S1481g"'Remove this unused "F2" local variable.(ÖøÑ‚
+k	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨¯ğùÿÿÿÿ
+Q
+java:S1854h"6Remove this useless assignment to local variable "P2".(Ùœ©æÿÿÿÿÿ
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ¥ù 
+Q	java:S107\"<Method has 9 parameters, which is greater than 7 authorized.(Âµ
+<
+java:S1659m"&Declare "riceArea" on a separate line.(²‹¡”
+L
+java:S1854j"6Remove this useless assignment to local variable "S1".(¦ı©È
+f	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´èÂÀ
+B
+java:S1481h"'Remove this unused "P2" local variable.(Ùœ©æÿÿÿÿÿ
+f	java:S117k"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¶Í˜
+f	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²à‰µ
+>
+java:S1172\"(Remove this unused method parameter "l".(Âµ
+B
+java:S1481d"'Remove this unused "F1" local variable.(Æ‡ ıÿÿÿÿ
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ‡ ıÿÿÿÿ
+k	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùœ©æÿÿÿÿÿ
+=
+java:S1659m"'Declare "wheatArea" on a separate line.(²‹¡”
+<
+java:S1481`"&Remove this unused "L" local variable.(´èÂÀ
+=
+java:S1481e"'Remove this unused "P1" local variable.(İ¥ù 
+K
+java:S1854b"5Remove this useless assignment to local variable "P".(²à‰µ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ä³Î¹øÿÿÿÿ
+A
+java:S1481a"&Remove this unused "F" local variable.(Ú¨¯ğùÿÿÿÿ
+=
+java:S1481k"'Remove this unused "S2" local variable.(û¶Í˜
+b
+java:S1192N"GDefine a constant instead of duplicating this literal "WIN:::" 9 times.(îÃŒâûÿÿÿÿ
+L
+java:S1854k"6Remove this useless assignment to local variable "S2".(û¶Í˜
+=
+java:S1481j"'Remove this unused "S1" local variable.(¦ı©È
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û‰²
+f	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ı©È
+L
+java:S1854g"6Remove this useless assignment to local variable "F2".(ÖøÑ‚
+L
+java:S1854e"6Remove this useless assignment to local variable "P1".(İ¥ù 
+J
+java:S1144\"4Remove this unused private "calculateProfit" method.(Âµ
+f	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖøÑ‚
+<
+java:S1481b"&Remove this unused "P" local variable.(²à‰µ
+K
+java:S1854`"5Remove this useless assignment to local variable "L".(´èÂÀ
+Q
+java:S1854d"6Remove this useless assignment to local variable "F1".(Æ‡ ıÿÿÿÿ

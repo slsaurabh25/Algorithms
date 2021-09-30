@@ -1,48 +1,10 @@
 
-H
-src/Sorting/example.java,2/2/22f72bfac3dc6a15e2227c5ac0603b86d11a59cc
 N
 src/Sorting/SelectionSort.java,7/a/7acb909db9a919870e8f3ab073b6353747f973b2
 J
 src/Sorting/MergeSort.java,e/d/ed7208df1712975efff4d62fc09620f6e527122b
-N
-src/Sorting/InsertionSort.java,b/3/b3325e65301d63348f5ca06e99f98c1fa6eb4646
 K
 src/Sorting/BubbleSort.java,c/b/cb1f54edb6d7bc437e97fbbebf5639156945f782
-F
-src/Sorting/guess.java,0/a/0a176bdb0bf2d4a1a3da2317e2db5cf8ff2487da
-M
-src/Sorting/ManWomenPair.java,8/8/88ee9fa24f6dcbc6f8c799123d3508f8a3578f39
-P
- src/Sorting/SeleniumExample.java,2/c/2c43e87962d57eb420a4d350804c3b1feabff621
-Q
-!src/Sorting/ExceptionExample.java,c/d/cde11a98384aec596c3e5584106e6de82f60a583
-F
-src/Sorting/Store.java,f/5/f560db93f4488a0d195f564fc701ce36018a6d45
-I
-src/Sorting/example1.java,c/d/cdf3f5452721e2f9b74888c1e28f4e24f03f3783
-I
-src/Sorting/example2.java,1/0/104a3cb66021f874ec1abff714ed91e82d5e5c8b
-M
-src/Sorting/ArrayJourney.java,e/f/ef00a1a8193790d413d2c9c434b9721000800959
-O
-src/Sorting/AuthorArticles.java,0/f/0f26f646e2e8615147804b3fbce3edf3a93c6503
-H
-src/Sorting/MyClass.java,1/3/1397d1f458ef3e0fd05b13fe22da26667198b23f
-N
-src/Sorting/DistinctWords.java,f/c/fce4763586e98d3e993e8b196fae9501a6302a4c
-P
- src/Sorting/CoinCombination.java,0/2/02d3c2366cb93b8e4be7d3b650c4e68f1bac1018
-J
-src/Sorting/OneITTest.java,4/0/408af42ab97b68c334764d40d0845399c4388b5e
-O
-src/Sorting/DatePlayGround.java,0/2/02a79f19a926de7bd175ea98f47bd641400011a3
-N
-src/Sorting/KonversiNilai.java,0/a/0a3dc5c2a94db2c79d5d315b684162270c37e3b5
-K
-src/Sorting/MapExample.java,3/a/3aba959e72cfa90c9fc5dc0a9f179feb4ccfa1c3
-L
-src/Sorting/HackerEarth.java,2/1/214f298cadbb6839479f2a775746f791b2f61ce4
 F
 src/CandidateCode.java,8/5/851ff75bdfeaf7dd136ad7f135b9698251a7d15c
 C
@@ -67,3 +29,29 @@ Q
 !src/CompletebleFutureExample.java,2/d/2d981fd2e4c0ed7c79023599763c502c50c45d7e
 A
 src/Example1.java,1/0/10cf4fd304db51731217f08b80b88fefa1ac0889
+E
+src/ArrayJourney.java,a/c/ac5a63a9ad92b59a1cca73ac26449780897eb5a6
+F
+src/DistinctWords.java,6/1/61e259d16e4786f9e2623842139355667ed23f51
+I
+src/ExceptionExample.java,6/4/648e1e0e6f7dd87b45a011480f0172b24d9c1abd
+A
+src/example2.java,a/f/af3fb9c5996fe1bf4cb48d32487b6ce7f7e4cada
+G
+src/DatePlayGround.java,0/3/0332115723c5a176daa7e1794fdad4f00d215d74
+G
+src/AuthorArticles.java,5/8/5874dd3c1dda4ed1866ac92e4a9d4df460fba99b
+@
+src/example.java,6/7/6703a61fd28d078139bfcdf68cf8d1f97c93d84c
+>
+src/guess.java,8/e/8e579101c84270d91e164b1c3f8486421982ea48
+H
+src/CoinCombination.java,7/9/7924d89aab37d45968f08aa7fdec4ce503cedee8
+A
+src/example1.java,5/2/521083d3a0d83f0af0dbd35feb433c9281cd9da0
+H
+src/Java8Playground.java,c/e/ce09ff071ae0cf43361aa95d92ef68d95b0164ef
+D
+src/HackerEarth.java,f/8/f8d9faa161b15b63de9b0b0871c6c3c44ecd8f14
+D
+src/WordPattern.java,6/d/6d30d7449e5df3d17372f3ab619c2929d5a0671f

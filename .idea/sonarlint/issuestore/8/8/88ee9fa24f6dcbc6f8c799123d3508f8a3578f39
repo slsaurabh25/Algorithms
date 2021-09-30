@@ -1,8 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä§ûÅúÿÿÿÿ8Å¾€Ã.
-t
-java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‡Ò´ÿÿÿÿÿ8Ğ¿ì€Ã.
-C
-java:S2129A"!Remove this "Integer" constructor(î‚„˜ıÿÿÿÿ8Ê„†Ã.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¢ÓÛüÿÿÿÿ8Å¾€Ã.

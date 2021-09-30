@@ -1,6 +1,6 @@
 
-Ž
-java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ8¬»Ó®§/
 ]	java:S125"<This block of commented-out lines of code should be removed.(É‘†ùÿÿÿÿ8±ßÒ®§/
+Ž
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ8·ô‘½µ/
 Z
-java:S1197	"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ8ƒÖ§®§/
+java:S1197	"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ8·ô‘½µ/

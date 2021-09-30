@@ -1,14 +1,14 @@
 
 S
 java:S1197"8Move the array designator from the variable to the type.(‚Œæöüÿÿÿÿ
+M
+java:S1197"8Move the array designator from the variable to the type.(ã3
 S
 java:S1854	"8Remove this useless assignment to local variable "temp".(×‘ëúúÿÿÿÿ
 D
 java:S1481	")Remove this unused "temp" local variable.(×‘ëúúÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö
-M
-java:S1197"8Move the array designator from the variable to the type.(ã3
 M
 java:S1197"8Move the array designator from the variable to the type.(°ÅòA
 S
 java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Óû³ö8ª´›½µ/
