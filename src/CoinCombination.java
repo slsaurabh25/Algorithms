@@ -42,6 +42,7 @@ public class CoinCombination {
         Scanner sc = new Scanner(System.in);
         int amount = sc.nextInt();
 
+        
         int result = countWaysToProduceGivenAmountOfMoney(amount);
         System.out.println(result);
     }
